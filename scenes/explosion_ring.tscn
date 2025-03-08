@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://5f010cj3ml4l"]
+
+[ext_resource type="Texture2D" uid="uid://doln3wstqfr0g" path="res://assets/textures/misc/explosion_ring/explosion_type_2_2.png" id="2_fk0h6"]
+[ext_resource type="Script" uid="uid://b7d77wpc834gr" path="res://scripts/explosion_ring.gd" id="5_fk0h6"]
+
+[node name="ExplosionRing" type="Sprite2D"]
+texture = ExtResource("2_fk0h6")
+script = ExtResource("5_fk0h6")

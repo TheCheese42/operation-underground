@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://dxqw7the6jrwt"]
+
+[ext_resource type="Texture2D" uid="uid://dqrmfopp17tlu" path="res://assets/textures/misc/stone_item.png" id="1_s83i6"]
+[ext_resource type="Script" uid="uid://bbmj7s8w03xv2" path="res://scripts/stone_item.gd" id="2_jdn78"]
+
+[node name="StoneItem" type="Sprite2D"]
+texture = ExtResource("1_s83i6")
+script = ExtResource("2_jdn78")

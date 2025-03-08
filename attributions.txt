@@ -1,0 +1,7 @@
+Intro Theme: Humans and Monsters lived together in Harmony by Fupi (https://opengameart.org/content/humans-and-monsters-lived-together-in-harmony) [CC0]
+Menu Theme: Menu Chill by etrock (https://opengameart.org/content/menu-chill-music) [CC0]
+Main Theme: Curious Critters by Matthew Pablo (https://opengameart.org/content/curious-critters) [CC-BY-3.0: https://creativecommons.org/licenses/by/3.0/]
+Credits Theme: StarShooter by Centurion_of_war (https://opengameart.org/content/starshooter) [CC0]
+Explosion Sound Effect: Death Flash by Blender Foundation (https://opengameart.org/content/big-explosion) [CC-BY-3.0: https://creativecommons.org/licenses/by/3.0/]
+Barrier Repair Sound Effect: LevelUp Sound Atmosphere by copyc4t (https://opengameart.org/content/levelup-sound-atmospheric) [CC-BY-3.0: https://creativecommons.org/licenses/by/3.0/]
+Made using the Godot Game Engine (https://godotengine.org/license)

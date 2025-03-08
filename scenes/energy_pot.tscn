@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://cmv12x7pgll5j"]
+
+[ext_resource type="Script" uid="uid://y6kng7t1iygv" path="res://scripts/energy_pot.gd" id="1_37n4x"]
+[ext_resource type="Texture2D" uid="uid://cm2tpq56e4r1i" path="res://assets/textures/misc/energy.png" id="1_jr8ws"]
+
+[node name="EnergyPot" type="Area2D"]
+script = ExtResource("1_37n4x")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_jr8ws")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+visible = false
+polygon = PackedVector2Array(-5, -6, -5, 6, -3, 8, 3, 8, 5, 6, 5, -6, 3, -8, -3, -8)
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
